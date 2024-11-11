@@ -7,10 +7,10 @@ export default function Navbar() {
    px-6 py-4 bg-yellow-700 ">
 <div className="left">
 <div className="">
-  <h1 className=" text-2xl bold font-extrabold">Asma Masood</h1>
+  <h1 className=" text-2xl text-white bold font-extrabold">Asma Masood</h1>
   </div></div>
   <div className="right">
-<ul className="flex gap-5 curser-pointer font-bold">
+<ul className="flex gap-5 curser-pointer text-white font-bold">
 <li><Link href="/">Home</Link></li>
 <li><Link href="/about">About</Link></li>
 <li><Link href="/education">Education</Link></li>
